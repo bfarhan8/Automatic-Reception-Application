@@ -1,0 +1,726 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Robot.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="btnPageName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">E</Value>
+    </Setting>
+    <Setting Name="pageTwoHead" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Environmental Protection &amp; Control Programs</Value>
+    </Setting>
+    <Setting Name="pageTwobtn1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Environmental Protection &amp; Control Department</Value>
+    </Setting>
+    <Setting Name="pageTwobtn2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Environmental Programs</Value>
+    </Setting>
+    <Setting Name="pageTwobtn1Font" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">32</Value>
+    </Setting>
+    <Setting Name="pageTwobtn2Font" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">32</Value>
+    </Setting>
+    <Setting Name="pageTwoHeadFont" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">50</Value>
+    </Setting>
+    <Setting Name="pageTwoHeadA" Type="System.String" Scope="User">
+      <Value Profile="(Default)">مقدمة</Value>
+    </Setting>
+    <Setting Name="pageTwobtn1A" Type="System.String" Scope="User">
+      <Value Profile="(Default)">إدارة حماية ومراقبة البيئة</Value>
+    </Setting>
+    <Setting Name="pageTwobtn2A" Type="System.String" Scope="User">
+      <Value Profile="(Default)">البرامج البيئية</Value>
+    </Setting>
+    <Setting Name="pageTwobtn1FontA" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">32</Value>
+    </Setting>
+    <Setting Name="pageTwobtn2FontA" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">32</Value>
+    </Setting>
+    <Setting Name="pageTwoHeadFontA" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">50</Value>
+    </Setting>
+    <Setting Name="pageThreeHead" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Environmental Protection &amp; Control Programs</Value>
+    </Setting>
+    <Setting Name="pageThreebtn1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">When did the Jubail Industrial City start working on environmental protection?</Value>
+    </Setting>
+    <Setting Name="pageThreebtn2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">What are the main objectives of the Department of Environmental Protection and Control?</Value>
+    </Setting>
+    <Setting Name="pageThreebtn3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">What are the main pillars of environmental conservation undertaken by the Royal Commission?</Value>
+    </Setting>
+    <Setting Name="pageThreebtn4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">How did the Royal Commission achieve harmony between the environment and the industry?</Value>
+    </Setting>
+    <Setting Name="pageThreeHeadA" Type="System.String" Scope="User">
+      <Value Profile="(Default)">إدارة حماية ومراقبة البيئة</Value>
+    </Setting>
+    <Setting Name="pageThreebtn1A" Type="System.String" Scope="User">
+      <Value Profile="(Default)">منذ متى بدأ العمل على المحافظة على البيئة في مدينة الجبيل الصناعية؟</Value>
+    </Setting>
+    <Setting Name="pageThreebtn2A" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ماهي أهم أهداف إدارة حماية ومراقبة البيئة؟ </Value>
+    </Setting>
+    <Setting Name="pageThreebtn3A" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ما أهم المرتكزات للمحافظة على البيئة التي قامت بها الهيئة الملكية؟ </Value>
+    </Setting>
+    <Setting Name="pageThreebtn4A" Type="System.String" Scope="User">
+      <Value Profile="(Default)">كيف تمكنت الهيئة الملكية من إحداث التوافق بين البيئة والصناعة؟</Value>
+    </Setting>
+    <Setting Name="pageThreeHeadFont" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">44</Value>
+    </Setting>
+    <Setting Name="pageThreebtn1Font" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">23</Value>
+    </Setting>
+    <Setting Name="pageThreebtn2Font" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">23</Value>
+    </Setting>
+    <Setting Name="pageThreebtn3Font" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">23</Value>
+    </Setting>
+    <Setting Name="pageThreebtn4Font" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">23</Value>
+    </Setting>
+    <Setting Name="pageFourHeadA" Type="System.String" Scope="User">
+      <Value Profile="(Default)">برامج حماية ومراقبة البيئة</Value>
+    </Setting>
+    <Setting Name="pageFourbtn1A" Type="System.String" Scope="User">
+      <Value Profile="(Default)">برنامج التصاريح البيئية</Value>
+    </Setting>
+    <Setting Name="pageFourbtn2A" Type="System.String" Scope="User">
+      <Value Profile="(Default)">برنامج مراقبة جودة المياه</Value>
+    </Setting>
+    <Setting Name="pageFourbtn3A" Type="System.String" Scope="User">
+      <Value Profile="(Default)">برنامج مراقبة الضجيج</Value>
+    </Setting>
+    <Setting Name="pageFourbtn4A" Type="System.String" Scope="User">
+      <Value Profile="(Default)">التوعية البيئية</Value>
+    </Setting>
+    <Setting Name="pageFourbtn5A" Type="System.String" Scope="User">
+      <Value Profile="(Default)">الأنظمة والمعايير البيئية</Value>
+    </Setting>
+    <Setting Name="pageFourbtn6A" Type="System.String" Scope="User">
+      <Value Profile="(Default)">برنامج مراقبة جودة الهواء والأرصاد الجوية</Value>
+    </Setting>
+    <Setting Name="pageFourbtn7A" Type="System.String" Scope="User">
+      <Value Profile="(Default)">برنامج مراقبة النفايات الصناعية</Value>
+    </Setting>
+    <Setting Name="pageFourbtn8A" Type="System.String" Scope="User">
+      <Value Profile="(Default)">حماية الحياة الفطرية</Value>
+    </Setting>
+    <Setting Name="pageFourHead" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Environmental Programs</Value>
+    </Setting>
+    <Setting Name="pageFourbtn1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Environmental Regulations</Value>
+    </Setting>
+    <Setting Name="pageFourbtn2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Air Quality Program</Value>
+    </Setting>
+    <Setting Name="pageFourbtn3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Industrial Waste Management</Value>
+    </Setting>
+    <Setting Name="pageFourbtn4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Protection of Wildlife</Value>
+    </Setting>
+    <Setting Name="pageFourbtn5" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Environmental Permits</Value>
+    </Setting>
+    <Setting Name="pageFourbtn6" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Water Quality Program</Value>
+    </Setting>
+    <Setting Name="pageFourbtn7" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Noise Control</Value>
+    </Setting>
+    <Setting Name="pageFourbtn8" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Environmental Awareness</Value>
+    </Setting>
+    <Setting Name="pageFourHeadFont" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">44</Value>
+    </Setting>
+    <Setting Name="pageFourbtn1Font" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">24</Value>
+    </Setting>
+    <Setting Name="pageFourbtn2Font" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">24</Value>
+    </Setting>
+    <Setting Name="pageFourbtn3Font" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">24</Value>
+    </Setting>
+    <Setting Name="pageFourbtn4Font" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">24</Value>
+    </Setting>
+    <Setting Name="pageFourbtn5Font" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">24</Value>
+    </Setting>
+    <Setting Name="pageFourbtn6Font" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">24</Value>
+    </Setting>
+    <Setting Name="pageFourbtn7Font" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">24</Value>
+    </Setting>
+    <Setting Name="pageFourbtn8Font" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">24</Value>
+    </Setting>
+    <Setting Name="pageFourAHead" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Environmental Regulations &amp; Standards</Value>
+    </Setting>
+    <Setting Name="pageFourAbtn1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">When were the environmental regulations and standards issued to the Royal Commission?</Value>
+    </Setting>
+    <Setting Name="pageFourAbtn2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">What are the environmental standards of the Royal Commission? </Value>
+    </Setting>
+    <Setting Name="pageFourAbtn3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Are environmental standards updated? </Value>
+    </Setting>
+    <Setting Name="pageFourAbtn4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Is there a system of environmental fines?</Value>
+    </Setting>
+    <Setting Name="pageFourAHeadA" Type="System.String" Scope="User">
+      <Value Profile="(Default)">الأنظمة والمعايير البيئية</Value>
+    </Setting>
+    <Setting Name="pageFourAbtn1A" Type="System.String" Scope="User">
+      <Value Profile="(Default)">متى تم إصدار الأنظمة والمعايير البيئية للهيئة الملكية؟</Value>
+    </Setting>
+    <Setting Name="pageFourAbtn2A" Type="System.String" Scope="User">
+      <Value Profile="(Default)">من ماذا تتكون المعايير البيئية للهيئة الملكية؟</Value>
+    </Setting>
+    <Setting Name="pageFourAbtn3A" Type="System.String" Scope="User">
+      <Value Profile="(Default)">هل يتم تحديث المعايير البيئية؟</Value>
+    </Setting>
+    <Setting Name="pageFourAbtn4A" Type="System.String" Scope="User">
+      <Value Profile="(Default)">هل يوجد نظام للغرامات البيئية؟</Value>
+    </Setting>
+    <Setting Name="pageFourAbtn1Font" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">24</Value>
+    </Setting>
+    <Setting Name="pageFourAbtn2Font" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">24</Value>
+    </Setting>
+    <Setting Name="pageFourAbtn3Font" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">24</Value>
+    </Setting>
+    <Setting Name="pageFourAbtn4Font" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">24</Value>
+    </Setting>
+    <Setting Name="pageFourAHeadFont" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">44</Value>
+    </Setting>
+    <Setting Name="pageFourBHead" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Air Quality &amp; Meteorology Monitoring Program</Value>
+    </Setting>
+    <Setting Name="pageFourBbtn1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Are there air quality and meteorological monitoring stations in Jubail Industrial City?</Value>
+    </Setting>
+    <Setting Name="pageFourBbtn2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">What are the most important elements measured for air quality? </Value>
+    </Setting>
+    <Setting Name="pageFourBbtn3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">What are the working hours of air quality control stations? </Value>
+    </Setting>
+    <Setting Name="pageFourBbtn4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Are emissions monitored from the source? </Value>
+    </Setting>
+    <Setting Name="pageFourBHeadA" Type="System.String" Scope="User">
+      <Value Profile="(Default)">برنامج مراقبة جودة الهواء والأرصاد الجوية</Value>
+    </Setting>
+    <Setting Name="pageFourBbtn1A" Type="System.String" Scope="User">
+      <Value Profile="(Default)">هل توجد محطات لمراقبة جودة الهواء والأرصاد الجوية في مدينة الجبيل الصناعية؟</Value>
+    </Setting>
+    <Setting Name="pageFourBbtn2A" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ما هي أهم العناصر التي يتم قياسها لجودة الهواء؟</Value>
+    </Setting>
+    <Setting Name="pageFourBbtn3A" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ما هي أوقات عمل محطات مراقبة جودة الهواء؟</Value>
+    </Setting>
+    <Setting Name="pageFourBbtn4A" Type="System.String" Scope="User">
+      <Value Profile="(Default)">هل يتم مراقبة الانبعاثات من المصدر؟</Value>
+    </Setting>
+    <Setting Name="pageFourBHeadFont" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">44</Value>
+    </Setting>
+    <Setting Name="pageFourBbtn1Font" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">24</Value>
+    </Setting>
+    <Setting Name="pageFourBbtn2Font" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">24</Value>
+    </Setting>
+    <Setting Name="pageFourBbtn3Font" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">24</Value>
+    </Setting>
+    <Setting Name="pageFourBbtn4Font" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">24</Value>
+    </Setting>
+    <Setting Name="pageFourCHead" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Industrial Waste Control Program</Value>
+    </Setting>
+    <Setting Name="pageFourCbtn1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">How is industrial waste managed in Jubail?</Value>
+    </Setting>
+    <Setting Name="pageFourCbtn2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">What are the benefits of waste recycling? </Value>
+    </Setting>
+    <Setting Name="pageFourCbtn3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">How to dispose of non-recyclable waste? </Value>
+    </Setting>
+    <Setting Name="pageFourCbtn4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Are industrial waste allowed to leave Jubail Industrial City? </Value>
+    </Setting>
+    <Setting Name="pageFourCbtn1A" Type="System.String" Scope="User">
+      <Value Profile="(Default)">كيف يتم إدارة النفايات الصناعية في مدينة الجبيل؟</Value>
+    </Setting>
+    <Setting Name="pageFourCbtn2A" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ما هي فوائد إعادة تدوير النفايات؟</Value>
+    </Setting>
+    <Setting Name="pageFourCbtn3A" Type="System.String" Scope="User">
+      <Value Profile="(Default)">كيف يتم التخلص من النفايات الغير قابلة لإعادة التدوير؟</Value>
+    </Setting>
+    <Setting Name="pageFourCbtn4A" Type="System.String" Scope="User">
+      <Value Profile="(Default)">هل يتم السماح للنفايات الصناعية بالخروج من مدينة الجبيل الصناعية؟</Value>
+    </Setting>
+    <Setting Name="pageFourCbtn1Font" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">24</Value>
+    </Setting>
+    <Setting Name="pageFourCbtn2Font" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">24</Value>
+    </Setting>
+    <Setting Name="pageFourCbtn3Font" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">24</Value>
+    </Setting>
+    <Setting Name="pageFourCbtn4Font" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">24</Value>
+    </Setting>
+    <Setting Name="pageFourCHeadFont" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">44</Value>
+    </Setting>
+    <Setting Name="pageFourCHeadA" Type="System.String" Scope="User">
+      <Value Profile="(Default)">برنامج مراقبة النفايات الصناعية</Value>
+    </Setting>
+    <Setting Name="pageFourDHead" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Protection of wildlife</Value>
+    </Setting>
+    <Setting Name="pageFourDbtn1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">What are the most important natural places in Jubail Industrial City?</Value>
+    </Setting>
+    <Setting Name="pageFourDbtn2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">What is the importance of mangrove plants ( Shura ) ?</Value>
+    </Setting>
+    <Setting Name="pageFourDHeadA" Type="System.String" Scope="User">
+      <Value Profile="(Default)">حماية الحياة الفطرية</Value>
+    </Setting>
+    <Setting Name="pageFourDbtn1A" Type="System.String" Scope="User">
+      <Value Profile="(Default)">هل تتم مراقبة الحياة الفطرية في مدينة الجبيل الصناعية؟</Value>
+    </Setting>
+    <Setting Name="pageFourDbtn2A" Type="System.String" Scope="User">
+      <Value Profile="(Default)">هل توجد محمية طبيعية بمدينة الجبيل الصناعية؟</Value>
+    </Setting>
+    <Setting Name="pageFourDbtn3A" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ما أهمية نباتات المانجروف؟</Value>
+    </Setting>
+    <Setting Name="pageFourDHeadFont" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">44</Value>
+    </Setting>
+    <Setting Name="pageFourDbtn1Font" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">24</Value>
+    </Setting>
+    <Setting Name="pageFourDbtn2Font" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">24</Value>
+    </Setting>
+    <Setting Name="pageFourDbtn3Font" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">24</Value>
+    </Setting>
+    <Setting Name="pageFourEHead" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Environmental Permits Program</Value>
+    </Setting>
+    <Setting Name="pageFourEbtn1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Are there environmental licenses for industrial facilities?</Value>
+    </Setting>
+    <Setting Name="pageFourEbtn2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Who is the responsible department for issuing the environmental license? </Value>
+    </Setting>
+    <Setting Name="pageFourEbtn3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">What are the procedures for issuing environmental licenses?</Value>
+    </Setting>
+    <Setting Name="pageFourEbtn4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Should the environmental license be renewed?</Value>
+    </Setting>
+    <Setting Name="pageFourEHeadA" Type="System.String" Scope="User">
+      <Value Profile="(Default)">برنامج التصاريح البيئية</Value>
+    </Setting>
+    <Setting Name="pageFourEbtn1A" Type="System.String" Scope="User">
+      <Value Profile="(Default)">هل توجد رخص بيئية للمنشآت الصناعية؟</Value>
+    </Setting>
+    <Setting Name="pageFourEbtn2A" Type="System.String" Scope="User">
+      <Value Profile="(Default)">من هي الإدارة المعنية بإصدار الرخصة البيئية؟</Value>
+    </Setting>
+    <Setting Name="pageFourEbtn3A" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ما هي الإجراءات المتبعة لإصدار الرخص البيئية؟</Value>
+    </Setting>
+    <Setting Name="pageFourEbtn4A" Type="System.String" Scope="User">
+      <Value Profile="(Default)">هل يجب تجديد الرخصة البيئية؟</Value>
+    </Setting>
+    <Setting Name="pageFourEHeadFont" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">44</Value>
+    </Setting>
+    <Setting Name="pageFourEbtn1Font" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">24</Value>
+    </Setting>
+    <Setting Name="pageFourEbtn2Font" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">24</Value>
+    </Setting>
+    <Setting Name="pageFourEbtn3Font" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">24</Value>
+    </Setting>
+    <Setting Name="pageFourEbtn4Font" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">24</Value>
+    </Setting>
+    <Setting Name="pageFourFHead" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Water Quality Control Programs</Value>
+    </Setting>
+    <Setting Name="pageFourFbtn1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">What water is monitored in Jubail Industrial City?</Value>
+    </Setting>
+    <Setting Name="pageFourFbtn2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Will Gulf water be affected by industrial activities?</Value>
+    </Setting>
+    <Setting Name="pageFourFbtn3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Are wastewater and industrial wastewater treated and what are they used?</Value>
+    </Setting>
+    <Setting Name="pageFourFbtn4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">How is the factory cooling process?</Value>
+    </Setting>
+    <Setting Name="pageFourFbtn5" Type="System.String" Scope="User">
+      <Value Profile="(Default)">What are the most important quality measurement elements in water quality?</Value>
+    </Setting>
+    <Setting Name="pageFourFHeadA" Type="System.String" Scope="User">
+      <Value Profile="(Default)">برامج مراقبة جودة المياه</Value>
+    </Setting>
+    <Setting Name="pageFourFbtn1A" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ما هي المياه التي يتم مراقبتها في مدينة الجبيل الصناعية؟</Value>
+    </Setting>
+    <Setting Name="pageFourFbtn2A" Type="System.String" Scope="User">
+      <Value Profile="(Default)">هل تتأثر مياه الخليج من النشاطات الصناعية؟</Value>
+    </Setting>
+    <Setting Name="pageFourFbtn3A" Type="System.String" Scope="User">
+      <Value Profile="(Default)">هل تتم معالجة مياه الصرف الصحي والصناعي وفي ماذا تستخدم؟</Value>
+    </Setting>
+    <Setting Name="pageFourFbtn4A" Type="System.String" Scope="User">
+      <Value Profile="(Default)">كيف تتم عملية التبريد للمصانع؟</Value>
+    </Setting>
+    <Setting Name="pageFourFbtn5A" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ما هي أهم العناصر التي يتم قياسها في جودة المياه؟</Value>
+    </Setting>
+    <Setting Name="pageFourFHeadFont" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">44</Value>
+    </Setting>
+    <Setting Name="pageFourFbtn1Font" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">24</Value>
+    </Setting>
+    <Setting Name="pageFourFbtn2Font" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">24</Value>
+    </Setting>
+    <Setting Name="pageFourFbtn3Font" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">24</Value>
+    </Setting>
+    <Setting Name="pageFourFbtn4Font" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">24</Value>
+    </Setting>
+    <Setting Name="pageFourFbtn5Font" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">24</Value>
+    </Setting>
+    <Setting Name="pageFourGHead" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Noise Control Program</Value>
+    </Setting>
+    <Setting Name="pageFourGbtn1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">What is meant by noise control?</Value>
+    </Setting>
+    <Setting Name="pageFourGbtn2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">How does hype affect public health? </Value>
+    </Setting>
+    <Setting Name="pageFourGbtn3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">What are the permitted noise rates in Jubail Industrial? </Value>
+    </Setting>
+    <Setting Name="pageFourGHeadA" Type="System.String" Scope="User">
+      <Value Profile="(Default)">برنامج مراقبة الضجيج</Value>
+    </Setting>
+    <Setting Name="pageFourGbtn1A" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ما هو المقصود بمراقبة الضجيج؟</Value>
+    </Setting>
+    <Setting Name="pageFourGbtn2A" Type="System.String" Scope="User">
+      <Value Profile="(Default)">كيف يؤثر الضجيج على الصحة العامة؟</Value>
+    </Setting>
+    <Setting Name="pageFourGbtn3A" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ما هي نسب الضجيج المسموح بها في الجبيل الصناعية؟</Value>
+    </Setting>
+    <Setting Name="pageFourGHeadFont" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">44</Value>
+    </Setting>
+    <Setting Name="pageFourGbtn1Font" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">24</Value>
+    </Setting>
+    <Setting Name="pageFourGbtn2Font" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">24</Value>
+    </Setting>
+    <Setting Name="pageFourGbtn3Font" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">24</Value>
+    </Setting>
+    <Setting Name="pageFourHHead" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Environmental Awareness</Value>
+    </Setting>
+    <Setting Name="pageFourHbtn1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">What is the concept of environmental awareness?</Value>
+    </Setting>
+    <Setting Name="pageFourHbtn2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Who is responsible for preserving the environment?</Value>
+    </Setting>
+    <Setting Name="pageFourHbtn3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">What are environmental awareness programs?</Value>
+    </Setting>
+    <Setting Name="pageFourHbtn4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">How to participate in raising environmental awareness?</Value>
+    </Setting>
+    <Setting Name="pageFourHHeadA" Type="System.String" Scope="User">
+      <Value Profile="(Default)">التوعية البيئية</Value>
+    </Setting>
+    <Setting Name="pageFourHbtn1A" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ما هو مفهوم التوعية البيئية؟</Value>
+    </Setting>
+    <Setting Name="pageFourHbtn2A" Type="System.String" Scope="User">
+      <Value Profile="(Default)">من المسؤول عن المحافظة على البيئة؟</Value>
+    </Setting>
+    <Setting Name="pageFourHbtn3A" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ما هي برامج التوعية البيئية؟</Value>
+    </Setting>
+    <Setting Name="pageFourHbtn4A" Type="System.String" Scope="User">
+      <Value Profile="(Default)">كيف يمكن المشاركة أو الحصول على برامج التوعية البيئية؟</Value>
+    </Setting>
+    <Setting Name="pageFourHHeadFont" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">44</Value>
+    </Setting>
+    <Setting Name="pageFourHbtn1Font" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">24</Value>
+    </Setting>
+    <Setting Name="pageFourHbtn2Font" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">24</Value>
+    </Setting>
+    <Setting Name="pageFourHbtn3Font" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">24</Value>
+    </Setting>
+    <Setting Name="pageFourHbtn4Font" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">24</Value>
+    </Setting>
+    <Setting Name="pageThreebtn1Audio" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ring.wav</Value>
+    </Setting>
+    <Setting Name="pageThreebtn2Audio" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ring.wav</Value>
+    </Setting>
+    <Setting Name="pageThreebtn3Audio" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ring.wav</Value>
+    </Setting>
+    <Setting Name="pageThreebtn4Audio" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ring.wav</Value>
+    </Setting>
+    <Setting Name="pageThreebtn1AudioA" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ring.wav</Value>
+    </Setting>
+    <Setting Name="pageThreebtn2AudioA" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ring.wav</Value>
+    </Setting>
+    <Setting Name="pageThreebtn3AudioA" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ring.wav</Value>
+    </Setting>
+    <Setting Name="pageThreebtn4AudioA" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ring.wav</Value>
+    </Setting>
+    <Setting Name="pageFourAbtn1Audio" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ring.wav</Value>
+    </Setting>
+    <Setting Name="pageFourAbtn2Audio" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ring.wav</Value>
+    </Setting>
+    <Setting Name="pageFourAbtn3Audio" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ring.wav</Value>
+    </Setting>
+    <Setting Name="pageFourAbtn4Audio" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ring.wav</Value>
+    </Setting>
+    <Setting Name="pageFourAbtn1AudioA" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ring.wav</Value>
+    </Setting>
+    <Setting Name="pageFourAbtn2AudioA" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ring.wav</Value>
+    </Setting>
+    <Setting Name="pageFourAbtn3AudioA" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ring.wav</Value>
+    </Setting>
+    <Setting Name="pageFourAbtn4AudioA" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ring.wav</Value>
+    </Setting>
+    <Setting Name="pageFourBbtn1Audio" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ring.wav</Value>
+    </Setting>
+    <Setting Name="pageFourBbtn2Audio" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ring.wav</Value>
+    </Setting>
+    <Setting Name="pageFourBbtn3Audio" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ring.wav</Value>
+    </Setting>
+    <Setting Name="pageFourBbtn4Audio" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ring.wav</Value>
+    </Setting>
+    <Setting Name="pageFourBbtn1AudioA" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ring.wav</Value>
+    </Setting>
+    <Setting Name="pageFourBbtn2AudioA" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ring.wav</Value>
+    </Setting>
+    <Setting Name="pageFourBbtn3AudioA" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ring.wav</Value>
+    </Setting>
+    <Setting Name="pageFourBbtn4AudioA" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ring.wav</Value>
+    </Setting>
+    <Setting Name="pageFourCbtn1Audio" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ring.wav</Value>
+    </Setting>
+    <Setting Name="pageFourCbtn2Audio" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ring.wav</Value>
+    </Setting>
+    <Setting Name="pageFourCbtn3Audio" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ring.wav</Value>
+    </Setting>
+    <Setting Name="pageFourCbtn4Audio" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ring.wav</Value>
+    </Setting>
+    <Setting Name="pageFourCbtn1AudioA" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ring.wav</Value>
+    </Setting>
+    <Setting Name="pageFourCbtn2AudioA" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ring.wav</Value>
+    </Setting>
+    <Setting Name="pageFourCbtn3AudioA" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ring.wav</Value>
+    </Setting>
+    <Setting Name="pageFourCbtn4AudioA" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ring.wav</Value>
+    </Setting>
+    <Setting Name="pageFourDbtn1Audio" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ring.wav</Value>
+    </Setting>
+    <Setting Name="pageFourDbtn2Audio" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ring.wav</Value>
+    </Setting>
+    <Setting Name="pageFourDbtn1AudioA" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ring.wav</Value>
+    </Setting>
+    <Setting Name="pageFourDbtn2AudioA" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ring.wav</Value>
+    </Setting>
+    <Setting Name="pageFourDbtn3AudioA" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ring.wav</Value>
+    </Setting>
+    <Setting Name="pageFourEbtn1Audio" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ring.wav</Value>
+    </Setting>
+    <Setting Name="pageFourEbtn2Audio" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ring.wav</Value>
+    </Setting>
+    <Setting Name="pageFourEbtn3Audio" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ring.wav</Value>
+    </Setting>
+    <Setting Name="pageFourEbtn4Audio" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ring.wav</Value>
+    </Setting>
+    <Setting Name="pageFourEbtn1AudioA" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ring.wav</Value>
+    </Setting>
+    <Setting Name="pageFourEbtn2AudioA" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ring.wav</Value>
+    </Setting>
+    <Setting Name="pageFourEbtn3AudioA" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ring.wav</Value>
+    </Setting>
+    <Setting Name="pageFourEbtn4AudioA" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ring.wav</Value>
+    </Setting>
+    <Setting Name="pageFourFbtn1Audio" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ring.wav</Value>
+    </Setting>
+    <Setting Name="pageFourFbtn2Audio" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ring.wav</Value>
+    </Setting>
+    <Setting Name="pageFourFbtn3Audio" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ring.wav</Value>
+    </Setting>
+    <Setting Name="pageFourFbtn4Audio" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ring.wav</Value>
+    </Setting>
+    <Setting Name="pageFourFbtn5Audio" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ring.wav</Value>
+    </Setting>
+    <Setting Name="pageFourFbtn1AudioA" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ring.wav</Value>
+    </Setting>
+    <Setting Name="pageFourFbtn2AudioA" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ring.wav</Value>
+    </Setting>
+    <Setting Name="pageFourFbtn3AudioA" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ring.wav</Value>
+    </Setting>
+    <Setting Name="pageFourFbtn4AudioA" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ring.wav</Value>
+    </Setting>
+    <Setting Name="pageFourFbtn5AudioA" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ring.wav</Value>
+    </Setting>
+    <Setting Name="pageFourGbtn1Audio" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ring.wav</Value>
+    </Setting>
+    <Setting Name="pageFourGbtn2Audio" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ring.wav</Value>
+    </Setting>
+    <Setting Name="pageFourGbtn3Audio" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ring.wav</Value>
+    </Setting>
+    <Setting Name="pageFourGbtn1AudioA" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ring.wav</Value>
+    </Setting>
+    <Setting Name="pageFourGbtn2AudioA" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ring.wav</Value>
+    </Setting>
+    <Setting Name="pageFourGbtn3AudioA" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ring.wav</Value>
+    </Setting>
+    <Setting Name="pageFourHbtn1Audio" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ring.wav</Value>
+    </Setting>
+    <Setting Name="pageFourHbtn2Audio" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ring.wav</Value>
+    </Setting>
+    <Setting Name="pageFourHbtn3Audio" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ring.wav</Value>
+    </Setting>
+    <Setting Name="pageFourHbtn4Audio" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ring.wav</Value>
+    </Setting>
+    <Setting Name="pageFourHbtn1AudioA" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ring.wav</Value>
+    </Setting>
+    <Setting Name="pageFourHbtn2AudioA" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ring.wav</Value>
+    </Setting>
+    <Setting Name="pageFourHbtn3AudioA" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ring.wav</Value>
+    </Setting>
+    <Setting Name="pageFourHbtn4AudioA" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Ring.wav</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
